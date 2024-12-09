@@ -54,11 +54,5 @@ Ask Questions:
 Use the input field to ask questions related to your situation.
 Receive personalized advice based on the provided information.
 
-## File Structure
-
-.
-├── app.py               # Main application code
-├── requirements.txt     # Python dependencies
-└── README.md            # Project documentation
 
    
